@@ -1,6 +1,6 @@
 {
-  "name": "EAP Components to GA Swap",
-  "id": "ga-component-swap",
+  "name": "Your Plugin Name",
+  "id": "your-plugin-name",
   "api": "1.0.0",
   "main": "code.js",
   "ui": "ui.html",
